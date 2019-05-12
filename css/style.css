@@ -1,0 +1,36 @@
+.titlepic{
+	width:100%;
+	height:650px;
+}
+
+.rachelmann.com{
+	color: green;
+}
+
+.greentitle{
+	color: green;
+}
+
+.banner {
+	background-image: url("../P1020360.jpg");
+	height: 700px; /* You must set a specified height */
+  	background-position: center; /* Center the image */
+  	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.links{
+	text-align: center;
+	list-style-type: none;
+	margin-bottom: 0;
+}
+
+.links-item{
+	display:inline;
+}
+
+.links-item-link{
+	color: white;
+	padding: 0 15px 0 15px;
+}
+
